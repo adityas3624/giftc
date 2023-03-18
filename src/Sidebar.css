@@ -1,0 +1,63 @@
+.whol{
+    background-color: #171F2F;
+    width: 250px;
+    height: 1000px;
+    padding-top: 30px;
+    /* border: 2px solid yellow; */
+}
+.greet{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: white;
+    font-weight: 400px;
+    padding-left: 15px;
+    /* margin-top: 30px; */
+    height:60px;
+    padding-top: 13px;
+}
+.greet:hover{
+    background-color: black;
+}
+.bou{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: white;
+    font-weight: 400px;
+    padding-left: 15px;
+    /* margin-top: 30px; */
+    height:60px;
+    padding-top: 13px;
+}
+.bou:hover{
+    background-color: black;
+}
+.mom{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: white;
+    font-weight: 400px;
+    padding-left: 15px;
+    /* margin-top: 30px; */
+    height:60px;
+    padding-top: 13px;
+}
+.mom:hover{
+    background-color: black;
+}
+.teddy{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: white;
+    font-weight: 400px;
+    padding-left: 15px;
+    /* margin-top: 30px; */
+    height:60px;
+    padding-top: 13px;
+}
+.teddy:hover{
+    background-color: black;
+}
