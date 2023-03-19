@@ -1,6 +1,7 @@
 import React from 'react'
 import img from './img.png';
 import './Navbar.css'
+import './Home.js';
 
 export default function Navbar() {
   return (
@@ -18,16 +19,24 @@ export default function Navbar() {
       
       </a>
       <div className="home">
-      <p>Home</p>
+        <a href='./Home.js' id='home'>
+      <p>Home</p></a>
+      </div>
+      <div className="item">
+      <a href="/" id='item'>
+      <p>Items</p></a>
       </div>
       <div className="about">
-      <p>About</p>
+      <a href="/" id='about'>
+      <p>About</p></a>
       </div>
+      <div className="searchbar">
       <div className="sea">
         <input type="text" id='sea' placeholder='search' />
       </div>
       <div className="search">
-      <button type="button" id='search' class="btn btn-outline-info">Search</button>
+      <button type="button" id='search' class="btn btn-outline-secondary">Search</button>
+      </div>
       </div>
     </div>
   )

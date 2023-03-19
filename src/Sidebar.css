@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 .whol{
-    background-color: #171F2F;
+    /* background-color: #f86587; */
+    background-image:  linear-gradient(to bottom, rgb(238, 49, 96), #fd819e);
     width: 250px;
     height: 1000px;
     padding-top: 30px;
-    /* border: 2px solid yellow; */
+    position: fixed;
+    /* border: 3px solid black; */
+    border-right: 3px solid black;
 }
 .greet{
     
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dancing Script', cursive;
     font-size: x-large;
     color: white;
     font-weight: 400px;
@@ -21,7 +25,7 @@
 }
 .bou{
     
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dancing Script', cursive;
     font-size: x-large;
     color: white;
     font-weight: 400px;
@@ -35,7 +39,7 @@
 }
 .mom{
     
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dancing Script', cursive;
     font-size: x-large;
     color: white;
     font-weight: 400px;
@@ -49,7 +53,7 @@
 }
 .teddy{
     
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Dancing Script', cursive;
     font-size: x-large;
     color: white;
     font-weight: 400px;
